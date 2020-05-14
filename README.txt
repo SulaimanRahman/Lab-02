@@ -1,0 +1,1 @@
+The purpose of this program is to execute another command that you ask it do to. if the directory does not exists, it will return and error. 
